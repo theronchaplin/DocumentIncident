@@ -24,16 +24,17 @@ Once the attackers gained access, they deployed their ransomware, which encrypte
 <h2>Project walk-through:</h2>
 
 <p align="center">
-1. Investigate and analyze the log file <br/>
-<img src="https://imgur.com/vvGEo9p.png" height="80%" width="80%"/>
+1. Review the scenario <br/>
+ <ul>
+<li>A small U.S. health care clinic experienced a security incident on Tuesday at 9:00 a.m. which severely disrupted their business operations.</li>
+<li>The cause of the security incident was a phishing email that contained a malicious attachment. Once it was downloaded, ransomware was deployed encrypting the organization's computer files.</li>
+<li>An organized group of unethical hackers left a ransom note stating that the company's files were encrypted and demanded money in exchange for the decryption key</li>
+</ul>
 <br />
 <br />
-2. Using the Cybersecurity Incident Report, summarize the problem found<br/>
-<img src="https://imgur.com/aEcLy0X.png" height="80%" width="80%"/>
+2. Record a journal entry<br/>
+<img src="https://imgur.com/o69bAla.png" height="80%" width="80%"/>
 <br />
-<br />
-3. Using the Cybersecurity Incident Report, explain your analysis of the data <br/>
-<img src="https://imgur.com/j3AUn4D.png" height="80%" width="80%"/>
 <br />
 
 <!--
