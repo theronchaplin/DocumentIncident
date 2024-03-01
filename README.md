@@ -1,11 +1,11 @@
-<h1>Document an incident with an incident handler's journal (fictional scenario)</h1>
+<h1>Document an incident with an incident handler's journal</h1>
 
 ### [YouTube Demonstration (work in progress)](https://youtu.be/URL)
 
 
 <h2>Description</h2>
 
-<p><em>This scenario was completed during the Google Cybersecurity Certificate Program and is based on a fictional company:</em></p>
+<p><em>This scenario was completed during the Google Cybersecurity Certificate Program:</em></p>
 
 A small U.S. health care clinic specializing in delivering primary-care services experienced a security incident on a Tuesday morning, at approximately 9:00 a.m. Several employees reported that they were unable to use their computers to access files like medical records. Business operations shut down because employees were unable to access the files and software needed to do their job.
 
