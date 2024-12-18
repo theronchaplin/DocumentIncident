@@ -1,7 +1,5 @@
 <h1>Document an incident with an incident handler's journal</h1>
 
-### [YouTube Demonstration (work in progress)](https://youtu.be/URL)
-
 
 <h2>Description</h2>
 
